@@ -43,10 +43,19 @@ pip install playsound==1.2.2
 ## 参考
 参考文献
 [1] MediaPipe Hands-Google, https://google.github.io/mediapipe/solutions/hands.
-[2] CVZone-GitHub, https://github.com/cvzone.[3] Head Pose Estimation with MediaPipe and OpenCV in Python - OVER 100 FPS!!!, https://www.youtube.com/watch?v=-toNMaS4SeQ&t=550s.
+
+[2] CVZone-GitHub, https://github.com/cvzone.
+
+[3] Head Pose Estimation with MediaPipe and OpenCV in Python - OVER 100 FPS!!!, https://www.youtube.com/watch?v=-toNMaS4SeQ&t=550s.
+
 [4]【Python】OpenCV で 画 像 を 合成 す る–addWeighted,bitwise 演算,ROI, https://code-graffiti.com/blending-images-with-opencv-in-python/.
+
 [5] 吹き出す炎-ニコニ・コモンズ, https://commons.nicovideo.jp/material/nc193929.
+
 [6]【 素 材 】火 fire, https://www.youtube.com/watch?v=XsjppibitCo&ab_channel=mokeyta.
+
 [7] 戦 闘 [1]-効 果 音 ラ ボ 火 炎 魔 法 2.mp3,https://soundeffect-lab.info/sound/battle/mp3/magic-flame2.mp3.
+
 [8] ナルト 忍術 発動音, https://www.youtube.com/watch?v=UO4sZ3iYuTE&ab_channel=ふらっとサウンド channel.
+
 [9] ナルト 忍術 中・終印音, https://www.youtube.com/watch?v=qaOTdQfht6k&ab_channel=ふらっとサウンド channel
